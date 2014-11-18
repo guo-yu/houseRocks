@@ -1,0 +1,26 @@
+{
+  "name": "houseRocks",
+  "version": "0.1.0",
+  "description": "houseRocks is a project aims to provide better living space solutions for young people working in Mainland China",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/houseRocks.git"
+  },
+  "keywords": [
+    "houseRocks",
+    "house",
+    "living",
+    "space",
+    "environment"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/houseRocks/issues"
+  },
+  "homepage": "https://github.com/turingou/houseRocks"
+}
