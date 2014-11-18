@@ -1,19 +1,6 @@
-## houseRocks ![NPM version](https://img.shields.io/npm/v/houseRocks.svg?style=flat) 
+## houseRocks ![NPM version](https://img.shields.io/npm/v/houserocks.svg?style=flat) 
 
-houseRocks is a project aims to provide better living space solutions for young people working in Mainland China
-
-### Installation
-```bash
-$ npm install houseRocks
-```
-
-### Example
-```js
-var houseRocks = require('houseRocks');
-```
-
-### API
-check this file: `index.js`
+使用更简单的方式，创造更好的居住环境。
 
 ### Contributing
 - Fork this repo
